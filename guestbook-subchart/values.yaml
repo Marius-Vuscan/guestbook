@@ -3,4 +3,4 @@ guestbook:
 
   service:
     type: LoadBalancer
-    port: 85
+    port: 80
